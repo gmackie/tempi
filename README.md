@@ -1,4 +1,4 @@
-##Tempi
+## Tempi
 A quick repo for setting up a grafana dashboard for a wireless thermomoter for a smoker
 
 
