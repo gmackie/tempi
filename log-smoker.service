@@ -1,0 +1,8 @@
+[Unit]
+Description=use rtl_433 to ingest temperature data from wireless thermometer and store in influxdb
+
+[Service]
+ExecStart=/bin/bash /usr/sbin/log-smoker.sh
+
+[Install]
+WantedBy=multi-user.target
