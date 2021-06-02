@@ -34,7 +34,7 @@ influx -execute 'CREATE DATABASE smoker'
 
 # setup script to log temp data
 sudo cp log-smoker.sh /usr/sbin/
-cp log-smoker.service /etc/systemd/system
+sudo cp log-smoker.service /etc/systemd/system
 sudo systemctl daemon-reload
 sudo systemctl enable log-smoker
 
