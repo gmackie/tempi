@@ -4,7 +4,7 @@ A quick repo for setting up a grafana dashboard for a wireless thermomoter for a
 ### Required Materials
 * RaspberryPi: While anything would work, I used a 3-A+ since I only need the 1 USB port for the rtl-sdr, and wifi. A zero-w would work, but you'd need to use an OTG adapter for the SDR
 * rtl-sdr: I used [this one](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B011HVUEME/) from Amazon, but any will work
-* Wireless Thermometer: [this one]](https://www.amazon.com/gp/product/B014DAVHSQ) from Amazon, so if you have a different one you might need to change some stuff...
+* Wireless Thermometer: [this one](https://www.amazon.com/gp/product/B014DAVHSQ) from Amazon, so if you have a different one you might need to change some stuff...
 * Smoker: Mine is a Taeger Ranger, which works ok, but if I had more room I would get something bigger (one day I'll get an actual offset smoker and become "legit")
 
 ### Setup Instructions
